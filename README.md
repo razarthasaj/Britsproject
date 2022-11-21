@@ -1,17 +1,18 @@
 This test is composed on python3 with robotframework and selenium package and BDD (Beheviour Driven Development)
 
-Both e2e tests are complete
+E2E tests:
 
 	Scenario 1
 	Scenario 2
 
---How to run this test--:
+How to run this test:
 
 	Install Python3 from: https://www.python.org/downloads/windows/
 
-Install all Robot Framework:--
-	--Go to project Floder
-    	$ cd Britsproject
+Install all Robot Framework packages:
+
+	-- Go to project Floder --
+		$ cd Britsproject
 		$ pip3 install -r /path/to/requirements.txt
 
 
