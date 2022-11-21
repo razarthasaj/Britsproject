@@ -13,7 +13,7 @@ Install all Robot Framework packages:
 
 	-- Go to project Floder --
 		$ cd Britsproject
-		$ pip3 install -r /path/to/requirements.txt
+		$ pip3 install -r requirements.txt
 
 
 To run the project:
